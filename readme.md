@@ -1,4 +1,7 @@
 # Welcome to the Anythink Market repo
+Install Docker
+
+After sucessfully installimg docker. run docker-compose up from the project root directory to load Anythink's backend and frontend.
 
 To start the app use Docker. It will start both frontend and backend, including all the relevant dependencies, and the db.
 
